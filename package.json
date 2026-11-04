@@ -1,0 +1,12 @@
+{
+  "name": "inventory-api",
+  "version": "1.0.0",
+  "description": "Simple REST API with Node.js and Express: CRUD, middleware and error handling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
